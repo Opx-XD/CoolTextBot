@@ -1,3 +1,3 @@
-pyrofork
-tgcrypto
-flask
+pyrofork==1.0.0
+tgcrypto==1.2.0
+flask==2.0.2
